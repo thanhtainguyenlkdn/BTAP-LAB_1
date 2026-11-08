@@ -1,0 +1,20 @@
+# Dữ liệu, trọng số và kết quả sinh ra khi chạy - không đưa lên git
+data/
+models/
+outputs/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Hệ điều hành / IDE
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
